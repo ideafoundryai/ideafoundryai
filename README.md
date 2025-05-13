@@ -33,6 +33,3 @@
 <div align="center">
   <img src="https://github.com/ideafoundryai/ideafoundryai/blob/main/page11.png" alt="page11"/>
 </div>
-<div align="center">
-  <img src="https://github.com/ideafoundryai/ideafoundryai/blob/main/page12.png" alt="page12"/>
-</div>
