@@ -1,5 +1,5 @@
 <h1 align="center">Idea Foundry</h1></h1>
-<h3 align="center">IdeaFoundry empowers millions globally by turning concepts into reality in minutes and with little to no resources required.</h3>
+<h3>IdeaFoundry empowers millions globally by turning concepts into reality in minutes and with little to no resources required.</h3>
 <div align="center">
   <img src="https://github.com/ideafoundryai/ideafoundryai/blob/main/page1.png" alt="page1"/>
 </div>
@@ -32,4 +32,7 @@
 </div>
 <div align="center">
   <img src="https://github.com/ideafoundryai/ideafoundryai/blob/main/page11.png" alt="page11"/>
+</div>
+<div align="center">
+  <img src="https://github.com/ideafoundryai/ideafoundryai/blob/main/page12.png" alt="page12"/>
 </div>
